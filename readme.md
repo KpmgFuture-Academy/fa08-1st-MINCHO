@@ -91,4 +91,5 @@
 *멤버: 강찬희, 김주혜, 이동현, 손소희*
 
 
-![프로젝트 일정](images/gant%20chart%20&%20wbs.png)
+![프로젝트 일정](images/gant_chart&wbs.png)
+
